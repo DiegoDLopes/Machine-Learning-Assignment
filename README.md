@@ -1,10 +1,10 @@
 # Machine-Learning-Assignment
 Assignment for the Applied Machine Learning on Python Course
 
-##################################################################################################################################################################
+#################################################################################################################
 Essa atividade consiste em tentar prever se multados pos falta de manutenção em propriedades pagarão a multa em dia. Fazia parte da atividade escolher as features 
 ideias para a tarefa além de escolher e treinar o modelo de machine learning para alcançar o desempenho desejado. Segue abaixo o enunciado:
-##################################################################################################################################################################
+#################################################################################################################
 
 Assignment 4 - Understanding and Predicting Property Maintenance Fines
 This assignment is based on a data challenge from the Michigan Data Science Team (MDST).
